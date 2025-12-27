@@ -83,6 +83,17 @@ tp-unlink -d
 - some routers require reboot after
 - VLAN detection will abort if tagged traffic seen
 
+## license
+
+this is free and unencumbered software released into the public domain
+see [LICENSE](LICENSE) for details
+
+## disclaimer
+
+this tool modifies router firmware settings and disables isp remote management
+use at your own risk. the author is not responsible for bricked devices,
+voided warranties, service violations, or any other consequences
+
 ---
 
 # tp-unlink (Türkçe)
@@ -169,3 +180,14 @@ tp-unlink -d
 - çalıştırmadan önce wan kablosunu çıkarın
 - bazı modemlerde işlem sonrası yeniden başlatma gerekir
 - vlan etiketli trafik algılanırsa işlem durur
+
+## lisans
+
+bu yazılım herkese açık olarak ücretsiz yayınlanmıştır
+detaylar için [LICENSE](LICENSE) dosyasına bakın
+
+## uyarı
+
+bu yazılım router ayarlarını değiştirir ve iss uzaktan yönetimini devre dışı bırakır
+sorumluluk tamamen kullanıcıya aittir. repo sahibi bozulan cihazlardan, geçersizleşen garantilerden,
+hizmet ihlallerinden veya diğer sonuçlardan sorumlu değildir

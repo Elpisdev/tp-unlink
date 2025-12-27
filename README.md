@@ -100,7 +100,7 @@ voided warranties, service violations, or any other consequences
 
 türk telekom TP-Link EX20v modemlerde root erişimi açar. CWMP/TR-069 protokolü üzerinden çalışır
 
-dchp option 43 ile sahte acs sunucusu gösterir. TR-069 parametrelerini değiştirerek ssh, telnet, http ve https erişimini etkinleştirir
+dhcp option 43 ile sahte acs sunucusu gösterir. TR-069 parametrelerini değiştirerek ssh, telnet, http ve https erişimini etkinleştirir
 
 türk telekom donanımı için yazıldı. diğer iss sürümleri test edilmedi.
 
